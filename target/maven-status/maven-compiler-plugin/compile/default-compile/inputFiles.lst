@@ -1,0 +1,6 @@
+/Users/thang/dev/ws/testdeploy/src/main/java/com/ttttn/demo/entity/NhanVien.java
+/Users/thang/dev/ws/testdeploy/src/main/java/com/ttttn/demo/TestdeployApplication.java
+/Users/thang/dev/ws/testdeploy/src/main/java/com/ttttn/demo/service/NhanVienService.java
+/Users/thang/dev/ws/testdeploy/src/main/java/com/ttttn/demo/serviceIMPL/NhanVienIMPL.java
+/Users/thang/dev/ws/testdeploy/src/main/java/com/ttttn/demo/controller/NhanVienController.java
+/Users/thang/dev/ws/testdeploy/src/main/java/com/ttttn/demo/JpaRepository/NhanVienJpa.java
